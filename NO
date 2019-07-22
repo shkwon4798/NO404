@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+  <title> CAFE </title>
+  <meta charset = "uft-8">
+  <style>
+  p{
+    color : red;
+  }
+  </style>
+</head>
+<body>
+<p> 제발 404 error 좀 뜨지마라 </p>
+</body>
+</html>
